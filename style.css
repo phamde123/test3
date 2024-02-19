@@ -1,0 +1,27 @@
+
+form{
+    background-color: blue;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: -5px 5px 10px gray;
+    padding: 10px 10px;
+}
+
+form #hup {
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+}
+form #hup:hover{
+    color: orange;
+}
+
+form #bu {
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+}
+form #bu:hover{
+    background-color: blueviolet;
+}
